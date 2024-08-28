@@ -179,4 +179,4 @@ If you would like to contribute to this project, please fork the repository and 
 
 eNQbKrGAgVuaCQEakqOgCdGbibwixlSmHDqKsCSh <-- Discogs API key
 
-**CHRIS'S TERMINAL SUCKS***
+**MY TERMINAL SUCKS***
