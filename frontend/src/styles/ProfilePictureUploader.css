@@ -1,0 +1,51 @@
+.profile-picture-uploader {
+    background-color: #2c2c2c;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    max-width: 400px;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  }
+  
+  .profile-picture-uploader h2 {
+    color: #ff7043;
+    margin-bottom: 15px;
+  }
+  
+  .profile-preview {
+    display: block;
+    max-width: 100%;
+    max-height: 200px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  .profile-picture-uploader input[type="file"] {
+    margin-bottom: 15px;
+  }
+  
+  .profile-picture-uploader button {
+    background-color: #ff7043;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .profile-picture-uploader button:hover {
+    background-color: #ff8a50;
+  }
+  
+  .error-message {
+    color: #ff4c4c;
+    font-weight: bold;
+  }
+  
+  .success-message {
+    color: #4caf50;
+    font-weight: bold;
+  }
